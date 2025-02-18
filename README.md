@@ -15,3 +15,6 @@ Problemática da seguinte implementação sem utilização de interfaces:
 ![image](https://github.com/user-attachments/assets/92f23f09-b10f-4530-be4b-125d5c00c196)
 
 Essa implementação de interface, que é uma definição genérica, garante um contrato onde TaxService precisa ter uma operação de imposto, permitindo maior flexibilidade e desacoplamento desse sistema.
+
+Créditos ao problema e imagens: https://devsuperior.com.br/ /
+Prof. Dr. Nelio Alves - Curso Udemy
